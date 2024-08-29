@@ -2,5 +2,5 @@ This is an interesting front-end web game. We have to press any key to start the
 The flashed box goes into an array which stores the sequence of the color button to be pressed.
 once the user correctly copy the particular sequence  another colored button gets added to that sequence making the sequence longer as each level progresses.
 users can make upto as many levels they are able to
-whenever user press any wrong sequence game will end and a red colour will flash.
+whenever user press any wrong sequence game will end with a red colour will flash and final level will be displayed.
 Technologies- HTML, CSS, JS
